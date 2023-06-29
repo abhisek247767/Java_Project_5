@@ -1,0 +1,5 @@
+package com.first.demo.securityconfig;
+
+public class SecurityConfig {
+
+}
